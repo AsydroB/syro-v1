@@ -1,0 +1,38 @@
+{
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "chance": "^1.1.7",
+    "common-tags": "^1.8.0",
+    "discord-music-player": "^6.3.5",
+    "discord.js": "^12.5.0",
+    "express": "^4.17.1",
+    "generate-password": "^1.5.0",
+    "google-tts-api": "^2.0.1",
+    "icy": "^2.1.0",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "os": "0.1.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "steam-provider": "^0.1.1",
+    "superagent": "^6.1.0",
+    "user-instagram": "^2.1.9",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^4.4.3",
+    "ytdl-core-discord": "^1.2.5"
+  }
+}
